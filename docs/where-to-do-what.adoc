@@ -22,15 +22,15 @@ Having Chloe has revolutionized the way I do knowledge management while in motio
 
 For example, while I'm driving or on the bike I can converse with Chloe in any language I want and then just forget about it. Before I might have tried to do some sort of bad text-to-speech to load my words into some brain-dead note system (like Obsidian). No more. Today Chloe has my note-taking back.
 
-=== Knowledge worth publishing: books repo (rwxrob.github.io/books)
+=== Knowledge worth publishing: GitHub AsciiDoc book repos
 
-Stuff that could one day be published in a book or booklet goes in my
-collection of books. I call this <<_perpetual_publishing, _perpetual
-publishing_>>. It's not the same as a blog.
+Stuff that could one day be published in a book or booklet goes in my collection of books. I call this <<_perpetual_publishing, _perpetual publishing_>>. It's not the same as a blog and always comes with an EPUB and PDF copy for people who need a local copy, such as those in education that don't have Internet access.
 
-=== Personal blog: site repo (rwxrob.github.io)
+Personally, I find AsciiDoc to be superior for this sort of thing because of its maturity and support from almost all major tech publishers. In fact, it was a published author who recommended it. AsciiDoc is also fully supported by GitHub so the source files are easy to read. AsciiDoc is the only format that allows dynamically including sections of other content fetched from remote URLs during the build process which is perfect for bringing in common content across GitHub repo boundaries once they are on GitHub.
 
-Few people know that everyone gets a free web site with a full content deployment network (CDN) on GitHub. It used to be you had to use Netlify or pay for this. No more. Most people will never hit the caps and limitations of simply pusting to GitHub itself—especially for blogging stuff.
+=== Personal blog: GitHub repo (rwxrob.github.io/blog)
+
+Few people know that everyone gets a free web site with a full content deployment network (CDN) on GitHub. It used to be you had to use Netlify or pay for this. No more. Most people will never hit the caps and limitations of simply pushing to GitHub itself—especially for blogging stuff.
 
 [CAUTION]
 ====
