@@ -1,0 +1,50 @@
+[separator=::]
+= Autodidactic
+:author: Robert S. Muhlestein (rwxrob)
+:creator: {author}
+:copyright: 2024 {author}
+:email: rob@rwx.gg
+:revdate: {date}
+:revremark: Perpetually published
+:doctype: book
+:leveloffset: +1
+:front-cover-image: image:cover.jpeg[width=1024,height=1024]
+:sectnums!:
+:sectlinks:
+:toc: left
+:toclevels: 1
+:toc-title: Table of Contents
+:description: Keys to success as a modern knowledge warrior
+:icons: font
+:xrefstyle: short
+:source-highlighter: pygments
+:pygments-style: vs
+:pygments-linenums-mode: table
+
+_Keys to success as a modern knowledge warrior_
+
+[cols="^.^1,1,1",options="autowidth"]
+|===
+| https://linktr.ee/rwxrob | link:./rwxrob-autodidactic.pdf[Download PDF] | link:./rwxrob-autodidactic.epub[Download EPUB]
+|===
+
+---
+
+= Knowledge management
+
+include::where-to-do-what.adoc[]
+
+include::./perpetual-publishing.adoc[]
+
+include::strong-opinions-weakly-held.adoc[]
+
+= Get a job
+
+include::cv-vs-resume.adoc[]
+
+include::work-with-good-people.adoc[]
+
+= Purpose
+
+include::motivation.adoc[]
+
